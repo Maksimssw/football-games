@@ -1,0 +1,71 @@
+.game {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url("@/assets/images/gamesList/list-bg.webp") no-repeat center /cover;
+}
+
+.game__content {
+    position: fixed;
+    top: 20px;
+    left: 0;
+    padding: 20px;
+    width: 100%;
+}
+
+.game__content:nth-child(2) {
+    top: 80px;
+    grid-column-gap: 16px;
+}
+
+.game__wrapper {
+    grid-column-gap: 12px;
+    padding: 8px;
+    border-radius: 6px;
+    color: var(--color-white);
+    background: var(--color-green100);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.game__arrow {
+    width: 32px;
+    height: 32px;
+    transform: rotate(180deg);
+}
+
+.game__wrapper span {
+    line-height: 24px;
+    font-size: 20px;
+}
+
+.game__wrapper .game__points {
+    line-height: 30px;
+    font-size: 28px;
+}
+
+.game__condition {
+    display: grid;
+    align-items: center;
+    padding: 8px;
+    height: 100%;
+    border-radius: 6px;
+    color: var(--color-white);
+    background: var(--color-green100);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.game__condition p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.canvas {
+    width: 100%;
+}
+
+
+@media (max-width: 630px) {
+    .canvas {
+    }
+}
