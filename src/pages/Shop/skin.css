@@ -1,0 +1,5 @@
+.skin {
+  padding-top: var(--header-height);
+  min-height: 100vh;
+  background: url("@/assets/images/shop/bg.webp") no-repeat center /cover;
+}

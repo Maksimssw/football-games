@@ -1,8 +1,9 @@
 <script setup>
-import store from "../../../store";
+import store from "../store";
 
-const name = store.state['login'].nickName
-const balance = store.state['user'].balance
+const name = store.state.login.nickName
+const balance = store.state.user.balance
+const points = store.state.user.points
 </script>
 
 <template>
@@ -12,7 +13,8 @@ const balance = store.state['user'].balance
         <img src="/profile.svg" alt="" />
         <div>
           <span>Name: {{ name }}</span>
-          <span>Balance {{ balance }}</span>
+          <span>Balance: {{ balance }}$</span>
+          <span>Points: {{ points }}</span>
         </div>
       </div>
       <div>

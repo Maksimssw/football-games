@@ -1,35 +1,35 @@
 <template>
   <div id="particle-container">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
-    <img :class="$style.particle" src="../../../../public/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
+    <img :class="$style.particle" src="../../../../public/skins/ball.png" alt="">
   </div>
 </template>
 

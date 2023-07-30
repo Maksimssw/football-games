@@ -17,10 +17,12 @@
 
     --color-orange100:  #f26e36;
 
-    --motion-ease: cubic-bezier(0.68, -0.6, 0.32, 1.6);
-    --motion-duration: 0.3s;
+    --motion-ease:      cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    --motion-duration:  0.3s;
 
     --navbar-show:      0 2px 6px 0 rgba(0,0,0,0.15);
+
+    --header-height:    72px;
 
     --container-width:  1240px;
     --container-indent: calc(50% - var(--container-width) / 2);

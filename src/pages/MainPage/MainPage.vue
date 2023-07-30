@@ -1,7 +1,7 @@
 <script setup>
 
 import './index.css'
-import MainHeader from "@/pages/MainPage/components/MainHeader.vue";
+import MainHeader from "@/components/MainHeader.vue";
 import MainParticles from "@/pages/MainPage/components/MainParticles.vue";
 import {onMounted} from "vue";
 import store from "@/store";
@@ -30,7 +30,7 @@ onMounted(() => {
       <router-link to="/games-list" class="main__button">
         Play
       </router-link>
-      <router-link to="/games-list" class="main__button">
+      <router-link to="/shop" class="main__button">
         Shop
       </router-link>
       <router-link to="/games-list" class="main__button">

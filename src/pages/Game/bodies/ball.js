@@ -31,7 +31,7 @@ export const createBall = (x, y, r, world) => {
     gate: false,
     render: {
       sprite: {
-        texture: '/ball.png',
+        texture: '/skins/ball.png',
         xScale: xScale,
         yScale: yScale
       }
